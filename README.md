@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+
 # README
+
+# mailtest
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,7 +24,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-=======
-# mailtest
->>>>>>> 1d74e571703e4f1db505a00efff97dd49aa5e777
+
+
